@@ -7,7 +7,7 @@ A two-stage Machine Learning based IPL prediction system that estimates the **fi
 ## 🔗 Live Application
 
 👉 **Streamlit App:**  
-https://your-app-name.streamlit.app/
+https://iplprediction-sb7xspmtw5odqmyfqevxxa.streamlit.app/
 
 *(Replace this link with your actual deployed Streamlit URL)*
 
