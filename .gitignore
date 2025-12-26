@@ -1,9 +1,18 @@
-# Ignore data files
-data/
-*.csv
-
-# Ignore notebook checkpoints
-.ipynb_checkpoints/
+# Virtual environment
+venv/
+env/
+.venv/
 
 # Python cache
 __pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db

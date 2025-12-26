@@ -1,9 +1,7 @@
-streamlit>=1.32
-numpy>=1.26.4
-pandas>=2.2.0
-scikit-learn>=1.4.2
-joblib>=1.4.2
-xgboost>=2.0.3
+streamlit==1.52.2
+pandas
+numpy
+scikit-learn==1.8.0
+joblib
+xgboost
 
-
-# pinned for streamlit cloud
